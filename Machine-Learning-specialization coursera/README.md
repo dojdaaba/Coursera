@@ -34,7 +34,7 @@ to real datasets throughout each course in the specialization.
 They will walk away with applied machine learning and Python 2 programming experience.
 
 
-- **Cours1 Machine Learning Foundations: A Case Study Approach: **
+- **Cours1 Machine Learning Foundations: A Case Study Approach:**
 
 Do you have data and wonder what it can tell you?  
 Do you need a deeper understanding of the core ways in which machine learning can improve your business? 
@@ -64,10 +64,15 @@ Learning Outcomes:  By the end of this course, you will be able to:
    -Implement these techniques in Python.
 
 Semaine1 Welcome
+
 Semaine2 Regression Predicting House Prices
+
 Semaine3 Classification Analyzing Sentiment
+
 Semaine4 Clustering and Similarity Retrieving Documents
+
 Semaine5 Recommending Products
+
 Semaine6 Deep Learning Searching for Images
 
 - **Cours2 Machine Learning: Regression:**
@@ -97,10 +102,15 @@ Learning Outcomes:  By the end of this course, you will be able to:
    -Implement these techniques in Python.
 
 Semaine1 Welcome
+
 Semaine2 Multiple Regression
+
 Semaine3 Assessing Performance
+
 Semaine4 Ridge Regression
+
 Semaine5 Feature Selection & Lasso
+
 Semaine6 Nearest Neighbors & Kernel Regression
 
 
@@ -139,11 +149,17 @@ Learning Objectives: By the end of this course, you will be able to:
    -Implement these techniques in Python (or in the language of your choice, though Python is highly recommended).
 
 Semaine1 Welcome!
+
 Semaine2 Learning Linear Classifiers
+
 Semaine3 Decision Trees
+
 Semaine4 Preventing Overfitting in Decision Trees
+
 Semaine5 Boosting
+
 Semaine6 Precision-Recall
+
 Semaine7 Scaling to Huge Datasets & Online Learning
 
 - **Cours4 Machine Learning: Clustering & Retrieval**
@@ -177,8 +193,13 @@ Learning Outcomes:  By the end of this course, you will be able to:
    -Implement these techniques in Python.
 
 Semaine1 Welcome
+
 Semaine2 Nearest Neighbor Search
+
 Semaine3 Clustering with k-means
+
 Semaine4 Mixture Models
+
 Semaine5 Mixed Membership Modeling via Latent Dirichlet Allocation
+
 Semaine6 Hierarchical Clustering & Closing Remarks
